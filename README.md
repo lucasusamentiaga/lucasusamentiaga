@@ -1,7 +1,5 @@
 <div align="center">
 
-<img src="https://github.com/lucasusamentiaga.png" alt="Lucas Usamentiaga" width="140" style="border-radius:50%;"/>
-
 # Lucas Usamentiaga
 
 **Estudiante de Ingeniería Informática · Creo apps con IA y las publico**
@@ -47,7 +45,7 @@ practicar sin arriesgar dinero.
 
 ### 🌱 [LumbreAI](https://lucasusamentiaga.github.io) · *en desarrollo*
 
-App móvil de bienestar: entrenamiento, nutrición, skincare y hábitos, con IA.
+App móvil de bienestar: entrenamiento, nutrición, skincare y hábitos en un solo sitio.
 
 `React Native` `Expo` `Supabase`
 
