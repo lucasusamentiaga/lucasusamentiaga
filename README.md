@@ -4,7 +4,7 @@
 
 **Estudiante de Ingeniería Informática · Creo apps con IA y las publico**
 
-[![Typing SVG](https://readme-typing-svg.demolab.com/?font=Fira+Code&size=20&duration=3500&pause=1000&color=8B5CF6&center=true&vCenter=true&width=560&lines=Miraru+%C2%B7+publicada+en+Microsoft+Store;Blankfire+%C2%B7+paper+trading+de+memecoins;LumbreAI+%C2%B7+en+desarrollo)](https://github.com/lucasusamentiaga)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?font=Fira+Code&size=20&duration=3500&pause=1000&color=8B5CF6&center=true&vCenter=true&width=560&lines=Miraru+%C2%B7+publicada+en+Microsoft+Store;Blankfire+%C2%B7+paper+trading+de+memecoins;LumbreAI+%C2%B7+beta+abierta+en+Android)](https://github.com/lucasusamentiaga)
 
 <a href="mailto:lucasusamentiaga@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
 <a href="https://x.com/T0ff3_x"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X"/></a>
@@ -43,11 +43,14 @@ practicar sin arriesgar dinero.
 
 `JavaScript` `Chrome Extension`
 
-### 🌱 [LumbreAI](https://lucasusamentiaga.github.io) · *en desarrollo*
+### 🌱 [LumbreAI](https://github.com/lucasusamentiaga/LumbreAI) · *beta abierta*
 
-App móvil de bienestar: entrenamiento, nutrición, skincare y hábitos en un solo sitio.
+App Android de entrenamiento, nutrición, skincare y hábitos que funciona sin conexión, con
+**Brasa**, un coach de IA que conoce tus números. En prueba cerrada en Google Play: si quieres
+probarla, [hazte tester](https://github.com/lucasusamentiaga/LumbreAI#hazte-tester) o
+[descárgala](https://lucasusamentiaga.github.io/descargar/).
 
-`React Native` `Expo` `Supabase`
+`React Native` `Expo` `TypeScript` `SQLite` `Supabase`
 
 ---
 
